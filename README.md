@@ -3,7 +3,7 @@ By Jiaxin Gao and Yaohua Liu
 
 ## Pipeline
 <p align="center">
-    <img src="./Figures/pipeline.png" alt="pipeline" width="80%">
+    <img src="./Figures/pipeline.png" alt="pipeline" width="90%">
 </p>
 
 
@@ -29,14 +29,10 @@ python evaluate.py
 
 
 ## Results
-- Visual comparison
-<p align="center">
-    <img src="./Figures/result1.png" alt="result1" width="80%">
-</p>
 
 - Benchmark Evaluation
 <p align="center">
-    <img src="./Figures/result2.png" alt="result2" width="80%">
+    <img src="./Figures/result2.png" alt="result2" width="90%">
 </p>
 
 ## Citation
