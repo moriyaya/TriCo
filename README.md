@@ -1,5 +1,5 @@
 # [ACMMM 2024] Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework
-By Jiaxin Gao and Yaohua Liu
+By Jiaxin Gao and Yaohua Liu; Dalian University of Technology
 
 ## Pipeline
 <p align="center">
